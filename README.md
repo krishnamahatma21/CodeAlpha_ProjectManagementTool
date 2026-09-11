@@ -158,4 +158,5 @@ Frontend runs on http://localhost:5173.
 
 **Krishna Mahatma**
 Project: CodeAlpha Full-Stack Internship (Task 3 - Project Management Tool)
+
 Date: August 2026
